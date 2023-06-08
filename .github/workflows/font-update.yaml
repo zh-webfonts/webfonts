@@ -38,7 +38,7 @@ jobs:
           git config --local user.name "Focus Chen"
           git remote set-url origin https://hifocus@github.com/zh-webfonts/webfonts.git
           git add -f font-tracer.yml
-          git commit -m "Executed Font Updater at $(date -u +'%Y-%m-%d %H:%M:%S UTC')"
+          git commit -m "Executed Font Tracer at $(date -u +'%Y-%m-%d %H:%M:%S')"
       - uses: ad-m/github-push-action@master
         with:
           branch: main
