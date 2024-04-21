@@ -4,25 +4,25 @@ fonts:
     type: npm
     value: '@fontsource/noto-sans-sc'
   version:
-    changed: false
-    last_checked: 1713615415
-    published_on: '2024-03-03T23:08:32.869Z'
-    version_number: 5.0.18
+    changed: true
+    last_checked: 1713660610
+    published_on: '2024-04-20T16:50:05.573Z'
+    version_number: 5.0.19
 - name: Noto Serif SC
   source:
     type: npm
     value: '@fontsource/noto-serif-sc'
   version:
-    changed: false
-    last_checked: 1713615416
-    published_on: '2023-12-06T17:37:04.315Z'
-    version_number: 5.0.11
+    changed: true
+    last_checked: 1713660611
+    published_on: '2024-04-20T16:50:45.842Z'
+    version_number: 5.0.12
 - name: LXGW WenKai
   source:
     type: github
     value: https://github.com/lxgw/LxgwWenKai
   version:
     changed: false
-    last_checked: 1713615416
+    last_checked: 1713660611
     published_on: '2024-02-09T15:57:30Z'
     version_number: v1.320
