@@ -5,7 +5,7 @@ fonts:
     value: '@fontsource/noto-sans-sc'
   version:
     changed: false
-    last_checked: 1716511723
+    last_checked: 1716553131
     published_on: '2024-04-20T16:50:05.573Z'
     version_number: 5.0.19
 - name: Noto Serif SC
@@ -14,7 +14,7 @@ fonts:
     value: '@fontsource/noto-serif-sc'
   version:
     changed: false
-    last_checked: 1716511723
+    last_checked: 1716553131
     published_on: '2024-05-19T00:39:02.479Z'
     version_number: 5.0.13
 - name: LXGW WenKai
@@ -23,6 +23,6 @@ fonts:
     value: https://github.com/lxgw/LxgwWenKai
   version:
     changed: false
-    last_checked: 1716511723
+    last_checked: 1716553131
     published_on: '2024-04-29T04:11:57Z'
     version_number: v1.330
